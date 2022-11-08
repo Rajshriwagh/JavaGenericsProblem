@@ -1,0 +1,3 @@
+INFO  | 2022-11-08 12:48:36 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:24) - Max Number is not present at Position 2! 9
+INFO  | 2022-11-08 12:52:14 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:24) - Max Number is not present at Position 2! 9
+INFO  | 2022-11-08 14:06:30 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:24) - Max Number is not present at Position 2! 8
