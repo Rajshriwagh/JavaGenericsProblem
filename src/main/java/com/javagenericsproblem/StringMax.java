@@ -19,9 +19,9 @@ public class StringMax {
 
 	void checkMaxAt2ndPos(String val, String max) {
 		if (val.equals(max)) {
-			logger.info("Max String is at Position 2! " + max);
+			logger.info("Max String is at Position 2 and its value is " + max);
 		} else {
-			logger.info("Max String is not present at Position 2! " + max);
+			logger.info("Max String is not present at Position 2 and its value is " + max);
 		}
 	}
 

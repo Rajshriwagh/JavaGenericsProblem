@@ -25,3 +25,150 @@ INFO  | 2022-11-08 15:32:23 | [main] javagenericsproblem.GenericMax (GenericMax.
 INFO  | 2022-11-08 15:32:23 | [main] javagenericsproblem.App (App.java:25) - Give 3 inputs of strings:
 INFO  | 2022-11-08 15:32:38 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! abcd
 INFO  | 2022-11-08 15:32:38 | [main] javagenericsproblem.GenericMax (GenericMax.java:35) - Max is not present at Position 2! abcd
+INFO  | 2022-11-08 16:28:46 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-08 16:28:46 | [main] javagenericsproblem.App (App.java:12) - Give 3 inputs of integer:
+INFO  | 2022-11-08 16:29:15 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:24) - Max Number is at Position 2! 5
+INFO  | 2022-11-08 16:29:15 | [main] javagenericsproblem.GenericMax (GenericMax.java:33) - Max is at Position 2! 5
+INFO  | 2022-11-08 16:29:15 | [main] javagenericsproblem.App (App.java:25) - Give 3 inputs of strings:
+INFO  | 2022-11-08 16:29:37 | [main] javagenericsproblem.StringMax (StringMax.java:22) - Max String is at Position 2! rajshri
+INFO  | 2022-11-08 16:29:37 | [main] javagenericsproblem.GenericMax (GenericMax.java:33) - Max is at Position 2! rajshri
+INFO  | 2022-11-09 19:21:19 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-09 19:21:19 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-09 19:21:26 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:24) - Max Number is at Position 2! 6
+INFO  | 2022-11-09 19:21:26 | [main] javagenericsproblem.GenericMax (GenericMax.java:43) - Max is at Position 2! 6
+INFO  | 2022-11-09 19:21:26 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-09 19:21:42 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! acbd
+INFO  | 2022-11-09 19:21:42 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! acbd
+INFO  | 2022-11-09 19:21:42 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-09 19:22:13 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-09 19:22:13 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-09 19:22:17 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:26) - Max Number is not present at Position 2! 9
+INFO  | 2022-11-09 19:22:17 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 9
+INFO  | 2022-11-09 19:22:17 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-09 19:22:27 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! andgss
+INFO  | 2022-11-09 19:22:27 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! andgss
+INFO  | 2022-11-09 19:22:27 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-09 19:27:05 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-09 19:27:05 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-09 19:27:10 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:26) - Max Number is not present at Position 2! 6
+INFO  | 2022-11-09 19:27:10 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 6
+INFO  | 2022-11-09 19:27:10 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-09 19:27:16 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! asdfg
+INFO  | 2022-11-09 19:27:16 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! asdfg
+INFO  | 2022-11-09 19:27:16 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-09 19:29:45 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-09 19:29:45 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-09 19:29:53 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:26) - Max Number is not present at Position 2! 6
+INFO  | 2022-11-09 19:29:53 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 6
+INFO  | 2022-11-09 19:29:53 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-09 19:30:00 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! azxc
+INFO  | 2022-11-09 19:30:00 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! azxc
+INFO  | 2022-11-09 19:30:00 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-09 19:31:05 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-09 19:31:05 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-09 19:31:11 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:26) - Max Number is not present at Position 2! 6
+INFO  | 2022-11-09 19:31:11 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 6
+INFO  | 2022-11-09 19:31:11 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-09 19:31:18 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! azxsds
+INFO  | 2022-11-09 19:31:18 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! azxsds
+INFO  | 2022-11-09 19:31:18 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-09 19:31:50 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-09 19:31:50 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-09 19:31:56 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:26) - Max Number is not present at Position 2! 6
+INFO  | 2022-11-09 19:31:56 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 6
+INFO  | 2022-11-09 19:31:56 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-09 19:32:01 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! asdff
+INFO  | 2022-11-09 19:32:01 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! asdff
+INFO  | 2022-11-09 19:32:01 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-09 19:32:15 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-09 19:32:15 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-09 19:32:18 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:26) - Max Number is not present at Position 2! 6
+INFO  | 2022-11-09 19:32:18 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 6
+INFO  | 2022-11-09 19:32:18 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-09 19:32:23 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! asdf
+INFO  | 2022-11-09 19:32:23 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! asdf
+INFO  | 2022-11-09 19:32:23 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-09 19:36:48 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-09 19:36:48 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-09 19:36:49 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-09 19:36:49 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-09 19:36:53 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:26) - Max Number is not present at Position 2! 6
+INFO  | 2022-11-09 19:36:53 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 6
+INFO  | 2022-11-09 19:36:53 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-09 19:36:59 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! asewq
+INFO  | 2022-11-09 19:36:59 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! asewq
+INFO  | 2022-11-09 19:36:59 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-09 20:04:40 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-09 20:04:40 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-09 20:04:45 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:26) - Max Number is not present at Position 2! 6
+INFO  | 2022-11-09 20:04:45 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 6
+INFO  | 2022-11-09 20:04:45 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-09 20:04:50 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! azs
+INFO  | 2022-11-09 20:04:50 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! azs
+INFO  | 2022-11-09 20:04:50 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-09 20:08:45 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-09 20:08:45 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-09 20:08:49 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:26) - Max Number is not present at Position 2! 3
+INFO  | 2022-11-09 20:08:49 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 3
+INFO  | 2022-11-09 20:08:49 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-09 20:08:55 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! azqwe
+INFO  | 2022-11-09 20:08:55 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! azqwe
+INFO  | 2022-11-09 20:08:55 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-10 20:08:15 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-10 20:08:15 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-10 20:08:21 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:24) - Max Number is at Position 2! 6
+INFO  | 2022-11-10 20:08:21 | [main] javagenericsproblem.GenericMax (GenericMax.java:43) - Max is at Position 2! 6
+INFO  | 2022-11-10 20:08:21 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-10 20:10:13 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! asds
+INFO  | 2022-11-10 20:10:13 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! asds
+INFO  | 2022-11-10 20:10:13 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-10 20:10:22 | [main] javagenericsproblem.FloatMax (FloatMax.java:23) - Max String is not present at Position 2! 0.0
+INFO  | 2022-11-10 20:10:22 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 0.0
+INFO  | 2022-11-10 20:19:11 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-10 20:19:11 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-10 20:19:17 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:26) - Max Number is not present at Position 2! 9
+INFO  | 2022-11-10 20:19:17 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 9
+INFO  | 2022-11-10 20:19:17 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-10 20:19:23 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! asd
+INFO  | 2022-11-10 20:19:23 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! asd
+INFO  | 2022-11-10 20:19:23 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-10 20:19:31 | [main] javagenericsproblem.FloatMax (FloatMax.java:23) - Max Float is not present at Position 2! 0.0
+INFO  | 2022-11-10 20:19:31 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 0.0
+INFO  | 2022-11-10 20:26:26 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-10 20:26:26 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-10 20:26:34 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:26) - Max Number is not present at Position 2! 6
+INFO  | 2022-11-10 20:26:34 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 6
+INFO  | 2022-11-10 20:26:34 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-10 20:26:41 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! asd
+INFO  | 2022-11-10 20:26:41 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! asd
+INFO  | 2022-11-10 20:26:41 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-11 14:51:25 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-11 14:51:25 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-11 14:51:29 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:26) - Max Number is not present at Position 2! 6
+INFO  | 2022-11-11 14:51:29 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 6
+INFO  | 2022-11-11 14:51:29 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-11 14:51:39 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2! asd
+INFO  | 2022-11-11 14:51:39 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! asd
+INFO  | 2022-11-11 14:51:39 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-11 14:51:51 | [main] javagenericsproblem.FloatMax (FloatMax.java:23) - Max Float is not present at Position 2! 3.3
+INFO  | 2022-11-11 14:51:51 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2! 3.3
+INFO  | 2022-11-11 14:55:06 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-11 14:55:06 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-11 14:55:11 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:26) - Max Number is not present at Positio 2 and its value is 6
+INFO  | 2022-11-11 14:55:11 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2 and its value is 6
+INFO  | 2022-11-11 14:55:11 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-11 14:55:41 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2 and its value is asd
+INFO  | 2022-11-11 14:55:41 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2 and its value is asd
+INFO  | 2022-11-11 14:55:41 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-11 14:56:02 | [main] javagenericsproblem.FloatMax (FloatMax.java:23) - Max Float is not present at Position 2! 2.6
+INFO  | 2022-11-11 14:56:02 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2 and its value is 2.6
+INFO  | 2022-11-11 14:56:31 | [main] javagenericsproblem.App (App.java:11) - Hello to Genrics Program!
+INFO  | 2022-11-11 14:56:31 | [main] javagenericsproblem.App (App.java:13) - Give 3 inputs of integer:
+INFO  | 2022-11-11 14:56:43 | [main] javagenericsproblem.IntegerMax (IntegerMax.java:24) - Max Number is at Position 2 and its value is 10
+INFO  | 2022-11-11 14:56:43 | [main] javagenericsproblem.GenericMax (GenericMax.java:43) - Max is at Position 2 and its value is 10
+INFO  | 2022-11-11 14:56:43 | [main] javagenericsproblem.App (App.java:31) - Give 3 inputs of strings:
+INFO  | 2022-11-11 14:56:56 | [main] javagenericsproblem.StringMax (StringMax.java:24) - Max String is not present at Position 2 and its value is asd
+INFO  | 2022-11-11 14:56:56 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2 and its value is asd
+INFO  | 2022-11-11 14:56:56 | [main] javagenericsproblem.App (App.java:40) - Give 3 inputs of floats:
+INFO  | 2022-11-11 14:57:09 | [main] javagenericsproblem.FloatMax (FloatMax.java:23) - Max Float is not present at Position 2 and its value is 6.3
+INFO  | 2022-11-11 14:57:09 | [main] javagenericsproblem.GenericMax (GenericMax.java:45) - Max is not present at Position 2 and its value is 6.3

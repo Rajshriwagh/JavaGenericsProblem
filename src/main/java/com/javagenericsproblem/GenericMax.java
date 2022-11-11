@@ -27,16 +27,31 @@ public class GenericMax<T> {
 		}
 		return max;
 	}
+	float calculateMaximumFloat(float[] ArrayOfInputs) {
+		float max = ArrayOfInputs[0];
+		if (ArrayOfInputs[1] > max) {
+			max = ArrayOfInputs[1];
+		}
+		if (ArrayOfInputs[2] > max) {
+			max = ArrayOfInputs[2];
+		}
+		return max;
+	}
 
 	static <T> void checkMaxAt2ndPos(T val, T max) {
 		if (val == (max)) {
-			logger.info("Max is at Position 2! " + max);
+			logger.info("Max is at Position 2 and its value is " + max);
 		} else {
-			logger.info("Max is not present at Position 2! " + max);
+			logger.info("Max is not present at Position 2 and its value is " + max);
 		}
 	}
 
 	public int calculateMaximumInteger(int[] arrayOfInputs) {
 		return 0;
 	}
+
+	public float calculateMaximum(float[] arrayOfInputs2) {
+		return 0;
+	}
+	
 }

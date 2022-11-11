@@ -8,7 +8,7 @@ public class IntegerMax {
 
 	// find the largest of three Comparable integer objects
 	int calculateMaximum(int[] ArrayOfInputs) {
-		int max = ArrayOfInputs[0]; // initially assign integer present 0th position to maxno variable
+		int max = ArrayOfInputs[0]; // initially assign integer present 0th position to max variable
 		if (ArrayOfInputs[1] > max) {
 			max = ArrayOfInputs[1];
 		}
@@ -21,9 +21,9 @@ public class IntegerMax {
 	// check that maximum(largest) number is present at second position
 	<T> void checkMaxAt2ndPos(T val, T max) {
 		if (val == max) {
-			logger.info("Max Number is at Position 2! " + max);
+			logger.info("Max Number is at Position 2 and its value is " + max);
 		} else {
-			logger.info("Max Number is not present at Position 2! " + max);
+			logger.info("Max Number is not present at Positio 2 and its value is " + max);
 		}
 	}
 }
